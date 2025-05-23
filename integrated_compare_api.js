@@ -2,7 +2,7 @@
 
 import express from 'express';
 import axios from 'axios';
-import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
 import mongoose from 'mongoose';
 
 const app = express();
