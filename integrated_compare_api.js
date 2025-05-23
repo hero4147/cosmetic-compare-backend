@@ -1,0 +1,1 @@
+# integrated_compare_api.js placeholder

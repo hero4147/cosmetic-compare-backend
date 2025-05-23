@@ -1,0 +1,1 @@
+# admin_add_product_api.js placeholder
