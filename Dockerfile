@@ -4,4 +4,4 @@ COPY package*.json ./
 RUN npm install
 COPY . .
 EXPOSE 3002
-CMD ["node", "integrated_compare_api.js"]
+CMD ["npm", "start"]
